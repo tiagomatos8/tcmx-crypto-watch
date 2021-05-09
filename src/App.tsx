@@ -15,6 +15,13 @@ export default function App() {
         <ProTip />
         <Copyright />
       </Box>
+      <Box my={4}>
+        <Typography variant="h4" component="h1" gutterBottom>
+          Create React App v4-beta example with TypeScript
+        </Typography>
+        <ProTip />
+        <Copyright />
+      </Box>
     </Container>
   );
 }
